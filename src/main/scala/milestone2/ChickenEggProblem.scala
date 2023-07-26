@@ -1,3 +1,5 @@
+package milestone2
+
 object ChickenEggProblem extends App {
 
   def whoCameFirst(animal: String, count: Int, isGoldenEgg: Boolean): String = {
