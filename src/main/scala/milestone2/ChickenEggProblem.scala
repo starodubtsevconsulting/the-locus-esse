@@ -13,7 +13,7 @@ object ChickenEggProblem extends App {
     }
   }
 
-  val numberOfGenerations = 10
+  val numberOfGenerations = 42
   val isGoldenEgg = false
 
   val result = whoCameFirst("chicken", numberOfGenerations, isGoldenEgg)
