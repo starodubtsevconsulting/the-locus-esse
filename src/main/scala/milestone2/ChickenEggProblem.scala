@@ -1,5 +1,8 @@
 package milestone2
 
+/**
+ * Related Article: https://sergiistarodubtsev.substack.com/p/the-blacksmiths-insights-and-software
+ */
 object ChickenEggProblem extends App {
 
   def whoCameFirst(animal: String, count: Int, isGoldenEgg: Boolean): String = {
