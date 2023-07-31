@@ -1,9 +1,6 @@
 package milestone3
 
-/*
-* The Big Bang primarily produced the two lightest elements, hydrogen (H) and helium (He), along with trace amounts of lithium (Li) and beryllium (Be).
-* The synthesis of heavier elements beyond helium required processes that occurred in the cores of stars and during stellar explosions, such as supernovae.
-*/
+import milestone3.BigBang
 
 object BigBangSimulation {
   def main(args: Array[String]): Unit = {

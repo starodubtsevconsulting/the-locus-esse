@@ -9,8 +9,8 @@ package milestone3
  * -- Hydrogen is estimated to make up about 74%
  * -- Helium: ~24% (of the baryonic matter)
  * -- Elements beyond helium (about 0%): For those elements, additional processes like supernova nucleosynthesis are necessary to produce them.
- *    It involve extreme conditions and cataclysmic events in the life cycle of massive stars or astrophysical events like neutron star collisions.
- *    And those are most elements we happened to be formed from - i.e. the start dust.
+ * It involve extreme conditions and cataclysmic events in the life cycle of massive stars or astrophysical events like neutron star collisions.
+ * And those are most elements we happened to be formed from - i.e. the start dust.
  */
 object HumanElements {
 
@@ -145,4 +145,3 @@ object HumanElements {
     }
   }
 }
-
