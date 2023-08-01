@@ -8,7 +8,7 @@ import munit.FunSuite
 // just draft to start with something, something executable with meaningful values
 import munit.FunSuite
 
-class MySuite extends FunSuite {
+class VirusSuite extends FunSuite {
 
   test("Create Astrovirus Naked Virus") {
     // Create a ViralGenome instance for Astrovirus
