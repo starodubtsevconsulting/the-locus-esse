@@ -1,5 +1,7 @@
 package milestone3.life.human
 
+// https://github.com/starodubtsevconsulting/the-locus-esse/commit/f28dbe73d1dca5a488b1deeb2e00c5828d6bdaaa
+
 trait Playful {
   def play(): Unit
   def enjoy(): Unit
